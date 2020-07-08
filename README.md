@@ -5,34 +5,32 @@ Projeto desenvolvido ReactJS no Gama Experience consumindo a API [PokeApi](https
 ## Bibliotecas
 
 - ReactJS
-- React Bootstrap
-- FontAwesome
 - Axios
 
-## Como rodar a aplicação
+## Como executar
 
-No terminal, clone o projeto
+Clone o projeto
 ```sh
 $ git clone https://github.com/joaquimrabelo/pokemon-store
 ```
 
-Entre na pasta do projeto
+Entre na pasta
 ```sh
 $ cd pokemon-store
 ```
 
 Instale as dependências
 ```sh
-$ npm install
+$ yarn install
 ```
 
-Execute a aplicação
+Execute
 ```sh
-$ npm start
+$ yarn start
 ```
 
 A aplicação estará disponível na rota http://localhost:3000
 
 
 ## Demo
-
+http://pokemonstore-gama.netlify.app
